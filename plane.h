@@ -19,15 +19,15 @@ public:
     //------------------------ type functionality -------------------------
     /// Initializes plane object with values read from input file stream.
     /// @param ifstream Input file stream.
-    virtual void In(std::ifstream &ifstream);
+    void In(std::ifstream &ifstream) override;
 
     /// Initializes plane object with random values.
-    virtual void InRnd();
+    void InRnd() override;
 
     /// Prints a description of the given plane object to the output
     ///   file stream.
     /// @param ofstream Input file stream.
-    virtual void Out(std::ofstream &ofstream);
+    void Out(std::ofstream &ofstream) override;
 };
 
 
