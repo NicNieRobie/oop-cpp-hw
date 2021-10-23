@@ -1,3 +1,0 @@
-/home/vladislav/CLionProjects/oop-cpp-hw/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/vladislav/CLionProjects/oop-cpp-hw/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/vladislav/CLionProjects/oop-cpp-hw/cmake-build-debug/CMakeFiles/oop_cpp_hw.dir
